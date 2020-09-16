@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RideSharing</string>
+    <string name="enable_gps">Enable GPS</string>
+    <string name="required">Required for this app</string>
+    <string name="enable_now">EnableNow</string>
+    <string name="where_to">Where to?</string>
+    <string name="pickup_location">Pickup Location</string>
+    <string name="request_cab">request cab</string>
+    <string name="requesting_your_cab">Requesting your cab</string>
+    <string name="your_cab_is_booked">Your cab is Booked</string>
+    <string name="your_cab_isArriving">Your cab is arriving</string>
+    <string name="your_cab_arrived">Your cab has arrived</string>
+    <string name="trip_finished">You trip is finished</string>
+    <string name="trip_started">Trip started</string>
+    <string name="take_next_ride">Take Next Ride</string>
+    <string name="current_location">Current Location</string>
+</resources>
